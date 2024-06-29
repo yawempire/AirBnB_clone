@@ -13,7 +13,7 @@ Users should be able to interact with the elements of the page, create, retrieve
 
 ## How to start it
 
-`git clone https://gitHub.com/angelotheman/AirBnB_clone.git`
+`git clone https://gitHub.com/yawempire/AirBnB_clone.git`
 Then you move into the directory;
 
 `cd AirBnB_clone`
