@@ -1,17 +1,19 @@
 #!/usr/bin/python3
+"""Module base_model
+
+This Module contains a definition for City Class
 """
-The module for the City class
-"""
+
 from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """
-    A class to represent the various cities
-    - Attributes
-        - state_id: (str) -> State.id
-        - name: (str)
+    """A class that represents a city
+
+    Attributes:
+        name (str): name of the city
+        state_id (str): the state id
     """
 
-    state_id: str = ""
-    name: str = ""
+    state_id = ""
+    name = ""
